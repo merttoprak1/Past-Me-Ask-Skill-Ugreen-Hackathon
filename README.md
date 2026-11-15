@@ -64,6 +64,6 @@ Created with Codex using the official UGOS Skill Creation Tool (uliya-skill-kit 
 
 ## Concept video
 
-Concept video (YouTube link to be added) — concept animation, not a device recording.
+[Watch the concept video on YouTube](https://www.youtube.com/watch?v=Fa5hfv95OqY) — concept animation, not a device recording.
 
 License: TBD
