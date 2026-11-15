@@ -64,6 +64,8 @@ Created with Codex using the official UGOS Skill Creation Tool (uliya-skill-kit 
 
 ## Concept video
 
+[![Past Me Asks concept video](docs/past-me-asks-thumbnail.jpg)](https://www.youtube.com/watch?v=Fa5hfv95OqY)
+
 [Watch the concept video on YouTube](https://www.youtube.com/watch?v=Fa5hfv95OqY) — concept animation, not a device recording.
 
 License: TBD
