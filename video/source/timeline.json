@@ -1,0 +1,595 @@
+{
+ "duration": 177.21,
+ "voice": "af_heart",
+ "speed": 1.0,
+ "scenes": {
+  "rec": {
+   "start": 0.0,
+   "end": 11.38
+  },
+  "years": {
+   "start": 11.38,
+   "end": 31.3
+  },
+  "forgot": {
+   "start": 31.3,
+   "end": 43.956
+  },
+  "turn": {
+   "start": 43.956,
+   "end": 54.316
+  },
+  "today": {
+   "start": 54.316,
+   "end": 72.139
+  },
+  "answer": {
+   "start": 72.139,
+   "end": 81.381
+  },
+  "decide": {
+   "start": 81.381,
+   "end": 90.408
+  },
+  "others": {
+   "start": 90.408,
+   "end": 108.113
+  },
+  "dialogue": {
+   "start": 108.113,
+   "end": 117.9
+  },
+  "people": {
+   "start": 117.9,
+   "end": 150.022
+  },
+  "trust": {
+   "start": 150.022,
+   "end": 159.662
+  },
+  "outro": {
+   "start": 159.662,
+   "end": 177.21
+  }
+ },
+ "cues": {
+  "rec.L0": 1.8,
+  "rec.E0": 4.045,
+  "rec.date": 1.8,
+  "rec.L1": 4.495,
+  "rec.E1": 7.241,
+  "rec.talk": 4.495,
+  "rec.L2": 7.941,
+  "rec.E2": 9.98,
+  "rec.quote": 7.941,
+  "years.L0": 11.88,
+  "years.E0": 14.484,
+  "years.intro": 11.88,
+  "years.L1": 14.934,
+  "years.E1": 19.819,
+  "years.m0": 14.934,
+  "years.L2": 20.269,
+  "years.E2": 24.503,
+  "years.m1": 20.269,
+  "years.L3": 24.953,
+  "years.E3": 30.35,
+  "years.m2": 24.953,
+  "forgot.L0": 31.7,
+  "forgot.E0": 32.88,
+  "forgot.life": 31.7,
+  "forgot.L1": 33.33,
+  "forgot.E1": 37.423,
+  "forgot.count": 33.33,
+  "forgot.n212": 35.42,
+  "forgot.n52": 36.945,
+  "forgot.L2": 37.873,
+  "forgot.E2": 39.384,
+  "forgot.L3": 39.834,
+  "forgot.E3": 43.006,
+  "forgot.b": 39.834,
+  "turn.L0": 44.356,
+  "turn.E0": 46.72,
+  "turn.pyou": 45.709,
+  "turn.arrow": 45.821,
+  "turn.ppast": 46.171,
+  "turn.L1": 47.17,
+  "turn.E1": 48.81,
+  "turn.phaseB": 47.17,
+  "turn.L2": 49.66,
+  "turn.E2": 51.027,
+  "turn.logo": 49.66,
+  "turn.L3": 51.477,
+  "turn.E3": 53.366,
+  "turn.sub": 51.477,
+  "today.L0": 54.816,
+  "today.E0": 59.965,
+  "today.find": 54.816,
+  "today.L1": 60.415,
+  "today.E1": 63.497,
+  "today.exact": 60.415,
+  "today.L2": 63.947,
+  "today.E2": 65.564,
+  "today.asks": 63.947,
+  "today.L3": 66.014,
+  "today.E3": 71.189,
+  "today.q": 66.014,
+  "answer.L0": 72.539,
+  "answer.E0": 76.53,
+  "answer.how": 72.539,
+  "answer.L1": 77.13,
+  "answer.E1": 80.431,
+  "answer.ans": 77.13,
+  "decide.L0": 81.781,
+  "decide.E0": 83.593,
+  "decide.chips": 81.781,
+  "decide.k0": 81.797,
+  "decide.k1": 82.097,
+  "decide.k2": 82.834,
+  "decide.L1": 84.493,
+  "decide.E1": 85.505,
+  "decide.big": 84.493,
+  "decide.L2": 85.955,
+  "decide.E2": 89.458,
+  "decide.no0": 86.385,
+  "decide.no1": 87.535,
+  "decide.no2": 88.847,
+  "others.L0": 90.908,
+  "others.E0": 92.66,
+  "others.intro": 90.908,
+  "others.L1": 93.11,
+  "others.E1": 94.377,
+  "others.c0": 93.11,
+  "others.L2": 94.827,
+  "others.E2": 96.73,
+  "others.c1": 94.827,
+  "others.L3": 97.18,
+  "others.E3": 99.003,
+  "others.c2": 97.18,
+  "others.L4": 100.153,
+  "others.E4": 100.712,
+  "others.areyou": 100.153,
+  "others.L5": 102.012,
+  "others.E5": 106.813,
+  "others.notyet": 102.012,
+  "dialogue.L0": 108.513,
+  "dialogue.E0": 113.546,
+  "dialogue.doc": 108.513,
+  "dialogue.L1": 113.996,
+  "dialogue.E1": 116.95,
+  "dialogue.w0": 114.011,
+  "dialogue.w1": 114.986,
+  "dialogue.w2": 115.898,
+  "people.L0": 118.4,
+  "people.E0": 121.269,
+  "people.intro": 118.4,
+  "people.L1": 121.719,
+  "people.E1": 127.137,
+  "people.p0": 121.719,
+  "people.p0m": 126.689,
+  "people.L2": 127.587,
+  "people.E2": 135.054,
+  "people.p1": 127.587,
+  "people.p1m": 132.239,
+  "people.L3": 135.504,
+  "people.E3": 141.974,
+  "people.p2": 135.504,
+  "people.p2m": 139.883,
+  "people.L4": 142.424,
+  "people.E4": 149.072,
+  "people.p3": 142.424,
+  "people.p3m": 146.513,
+  "trust.L0": 150.422,
+  "trust.E0": 151.958,
+  "trust.L1": 152.408,
+  "trust.E1": 158.712,
+  "trust.r0": 152.51,
+  "trust.r1": 154.873,
+  "trust.r2": 156.91,
+  "outro.L0": 160.662,
+  "outro.E0": 163.022,
+  "outro.L1": 163.472,
+  "outro.E1": 165.122,
+  "outro.L2": 165.572,
+  "outro.E2": 170.246,
+  "outro.f1": 165.572,
+  "outro.f2": 168.242,
+  "outro.L3": 171.746,
+  "outro.E3": 174.01,
+  "outro.last": 171.746
+ },
+ "words": {
+  "rec.q": [
+   7.947,
+   8.259,
+   8.622,
+   8.722,
+   8.847,
+   9.097,
+   9.434
+  ],
+  "forgot.a": [
+   37.908,
+   38.258,
+   38.483,
+   38.758,
+   38.883
+  ],
+  "forgot.b1": [
+   39.928,
+   40.016,
+   40.303,
+   40.616,
+   40.728,
+   40.791
+  ],
+  "forgot.b2": [
+   41.478,
+   41.641,
+   41.816,
+   42.166,
+   42.516
+  ],
+  "turn.s1": [
+   44.371,
+   44.621,
+   45.046,
+   45.559,
+   45.709
+  ],
+  "turn.s2": [
+   45.821,
+   46.059,
+   46.171
+  ],
+  "turn.t1": [
+   47.183,
+   47.346,
+   47.533
+  ],
+  "turn.t2": [
+   47.721,
+   47.833,
+   48.246,
+   48.533
+  ],
+  "today.q": [
+   66.021,
+   66.146,
+   67.296,
+   67.446,
+   67.983,
+   68.121,
+   68.371,
+   68.871,
+   69.058,
+   70.458,
+   70.646
+  ],
+  "answer.a": [
+   77.144,
+   77.331,
+   77.519,
+   78.044,
+   78.181,
+   78.331,
+   78.594,
+   78.781,
+   78.944,
+   79.194,
+   79.419
+  ],
+  "decide.big": [
+   84.494,
+   84.794,
+   84.906
+  ],
+  "dialogue.t1": [
+   110.02,
+   110.446,
+   110.558
+  ],
+  "dialogue.t2": [
+   110.908,
+   111.183,
+   111.395
+  ],
+  "people.ti": [
+   118.574,
+   118.824,
+   118.974,
+   119.612,
+   119.799,
+   120.087,
+   120.174,
+   120.624,
+   120.749
+  ],
+  "trust.h": [
+   150.538,
+   150.625,
+   150.913,
+   151.025,
+   151.362,
+   151.525
+  ],
+  "outro.tg1": [
+   160.678,
+   160.928,
+   161.353,
+   161.865,
+   162.015,
+   162.128,
+   162.365,
+   162.478
+  ],
+  "outro.tg2": [
+   163.485,
+   163.648,
+   163.835,
+   164.023,
+   164.135,
+   164.548,
+   164.835
+  ]
+ },
+ "lines": [
+  {
+   "scene": "rec",
+   "start": 1.8,
+   "end": 4.045,
+   "text": "March 2019. Eight in the morning."
+  },
+  {
+   "scene": "rec",
+   "start": 4.495,
+   "end": 7.241,
+   "text": "You hit record, and talk to the person you will become."
+  },
+  {
+   "scene": "rec",
+   "start": 7.941,
+   "end": 9.98,
+   "text": "Future me, are you still playing guitar?"
+  },
+  {
+   "scene": "years",
+   "start": 11.88,
+   "end": 14.484,
+   "text": "Over the years, you leave more messages for later."
+  },
+  {
+   "scene": "years",
+   "start": 14.934,
+   "end": 19.819,
+   "text": "In June 2021, a prediction: In two years, I will have my own studio."
+  },
+  {
+   "scene": "years",
+   "start": 20.269,
+   "end": 24.503,
+   "text": "On New Year's Day, a promise: I promise I will call Dad every Sunday."
+  },
+  {
+   "scene": "years",
+   "start": 24.953,
+   "end": 30.35,
+   "text": "And one night in September 2023, a worry: I am scared this job will swallow me."
+  },
+  {
+   "scene": "forgot",
+   "start": 31.7,
+   "end": 32.88,
+   "text": "Then life happens."
+  },
+  {
+   "scene": "forgot",
+   "start": 33.33,
+   "end": 37.423,
+   "text": "The memos pile up. Two hundred and twelve of them, next to fifty-two notes."
+  },
+  {
+   "scene": "forgot",
+   "start": 37.873,
+   "end": 39.384,
+   "text": "Nobody goes back to listen."
+  },
+  {
+   "scene": "forgot",
+   "start": 39.834,
+   "end": 43.006,
+   "text": "And you can't search for a promise you no longer remember making."
+  },
+  {
+   "scene": "turn",
+   "start": 44.356,
+   "end": 46.72,
+   "text": "Most archive tools let you ask your past."
+  },
+  {
+   "scene": "turn",
+   "start": 47.17,
+   "end": 48.81,
+   "text": "This one lets your past ask you."
+  },
+  {
+   "scene": "turn",
+   "start": 49.66,
+   "end": 51.027,
+   "text": "This is Past Me Asks."
+  },
+  {
+   "scene": "turn",
+   "start": 51.477,
+   "end": 53.366,
+   "text": "A Skill for the UGREEN AI NAS."
+  },
+  {
+   "scene": "today",
+   "start": 54.816,
+   "end": 59.965,
+   "text": "It goes through the memos and notes you choose, and finds the messages past you left for the future."
+  },
+  {
+   "scene": "today",
+   "start": 60.415,
+   "end": 63.497,
+   "text": "Each one comes back word for word, with its real date."
+  },
+  {
+   "scene": "today",
+   "start": 63.947,
+   "end": 65.564,
+   "text": "And then, past you gets to ask."
+  },
+  {
+   "scene": "today",
+   "start": 66.014,
+   "end": 71.189,
+   "text": "In 2021, you expected your own studio by 2023. What happened?"
+  },
+  {
+   "scene": "answer",
+   "start": 72.539,
+   "end": 76.53,
+   "text": "You answer in your own words: typed, or recorded as a new Now Me memo."
+  },
+  {
+   "scene": "answer",
+   "start": 77.13,
+   "end": 80.431,
+   "text": "Not my own, but I share one with Lea since 2024."
+  },
+  {
+   "scene": "decide",
+   "start": 81.781,
+   "end": 83.593,
+   "text": "Kept? Not kept? Still open?"
+  },
+  {
+   "scene": "decide",
+   "start": 84.493,
+   "end": 85.505,
+   "text": "Only you decide."
+  },
+  {
+   "scene": "decide",
+   "start": 85.955,
+   "end": 89.458,
+   "text": "It never scores you, never judges you, and never gives advice."
+  },
+  {
+   "scene": "others",
+   "start": 90.908,
+   "end": 92.66,
+   "text": "Then the other messages wait for you."
+  },
+  {
+   "scene": "others",
+   "start": 93.11,
+   "end": 94.377,
+   "text": "How did this promise go?"
+  },
+  {
+   "scene": "others",
+   "start": 94.827,
+   "end": 96.73,
+   "text": "What would you tell the person who said this?"
+  },
+  {
+   "scene": "others",
+   "start": 97.18,
+   "end": 99.003,
+   "text": "And that question from 2019."
+  },
+  {
+   "scene": "others",
+   "start": 100.153,
+   "end": 100.712,
+   "text": "Are you?"
+  },
+  {
+   "scene": "others",
+   "start": 102.012,
+   "end": 106.813,
+   "text": "If you are not ready to answer yet, that's fine. It simply saves: not answered yet."
+  },
+  {
+   "scene": "dialogue",
+   "start": 108.513,
+   "end": 113.546,
+   "text": "When you say yes, it saves past and present side by side, in one dated dialogue."
+  },
+  {
+   "scene": "dialogue",
+   "start": 113.996,
+   "end": 116.95,
+   "text": "Exact quotes. Real dates. Nothing invented."
+  },
+  {
+   "scene": "people",
+   "start": 118.4,
+   "end": 121.269,
+   "text": "It's made for anyone with years of memos and notes."
+  },
+  {
+   "scene": "people",
+   "start": 121.719,
+   "end": 127.137,
+   "text": "Ana turns 35. Past her wanted to have run a marathon by then. She marks it: kept."
+  },
+  {
+   "scene": "people",
+   "start": 127.587,
+   "end": 135.054,
+   "text": "Jonas promised to call his dad every Sunday. He writes what happened, and leaves it unmarked. It's the first thing he has written about it."
+  },
+  {
+   "scene": "people",
+   "start": 135.504,
+   "end": 141.974,
+   "text": "Sofia answers the worries she had about her teaching job, and the Skill makes no comment on whether they were justified."
+  },
+  {
+   "scene": "people",
+   "start": 142.424,
+   "end": 149.072,
+   "text": "And Priya, deciding whether to move abroad again, reads her own words from before, during and after her last move."
+  },
+  {
+   "scene": "trust",
+   "start": 150.422,
+   "end": 151.958,
+   "text": "And it treats your past with care."
+  },
+  {
+   "scene": "trust",
+   "start": 152.408,
+   "end": 158.712,
+   "text": "It reads only the folders you name, never changes a memo or a note, and writes nothing until you say yes."
+  },
+  {
+   "scene": "outro",
+   "start": 160.662,
+   "end": 163.022,
+   "text": "Most archive tools let you ask your past."
+  },
+  {
+   "scene": "outro",
+   "start": 163.472,
+   "end": 165.122,
+   "text": "This one lets your past ask you."
+  },
+  {
+   "scene": "outro",
+   "start": 165.572,
+   "end": 170.246,
+   "text": "Past Me Asks. For Bring Memories to Life, by Mert Toprak and Daghan Leflef."
+  },
+  {
+   "scene": "outro",
+   "start": 171.746,
+   "end": 174.01,
+   "text": "So, tell me. Are you still playing guitar?"
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+<!doctype html>
+<html><head><meta charset="utf-8"><title>Past Me Asks thumbnail 3x2</title>
+<style>
+:root{--ink:#141217;--paper:#F4EEE3;--amber:#FF8A1F;--rec:#FF4B3E;--grey:#6E675F}
+html,body{margin:0;width:1800px;height:1200px;overflow:hidden;background:var(--ink)}
+#t{position:relative;width:1800px;height:1200px;overflow:hidden;background:var(--ink);font-family:'Avenir Next','Avenir','Helvetica Neue',sans-serif;-webkit-font-smoothing:antialiased}
+.glow{position:absolute;left:-250px;top:60px;width:1350px;height:800px;background:radial-gradient(closest-side,rgba(255,138,31,.20),rgba(255,138,31,0));}
+.file{position:absolute;left:110px;top:118px;font:500 34px Menlo,monospace;color:var(--amber);letter-spacing:.01em}
+.file i{display:inline-block;width:22px;height:22px;border-radius:50%;background:var(--rec);margin-right:18px;vertical-align:1px}
+#wave{position:absolute;left:110px;top:200px;width:900px;height:240px}
+#wave span{position:absolute;bottom:0;width:11px;border-radius:6px}
+.quote{position:absolute;left:104px;top:500px;width:900px;font:italic 500 96px 'Iowan Old Style','Hoefler Text',Georgia,serif;line-height:1.06;color:var(--paper);letter-spacing:-.005em}
+.logo{position:absolute;left:100px;top:915px;font:800 142px 'Avenir Next',sans-serif;letter-spacing:-.055em;color:var(--paper);white-space:nowrap}
+.logo b{color:var(--amber);font-weight:800}
+.logo i{display:inline-block;width:30px;height:30px;border-radius:50%;background:var(--rec);vertical-align:top;margin:28px 0 0 12px}
+.panel{position:absolute;left:1060px;top:0;width:740px;height:1200px;background:var(--amber);clip-path:polygon(70px 0,100% 0,100% 100%,0 100%)}
+.today{position:absolute;left:1180px;top:118px;font:600 34px Menlo,monospace;color:var(--ink);letter-spacing:.03em}
+.qlab{position:absolute;left:1180px;top:340px;font:700 34px Menlo,monospace;color:var(--ink);letter-spacing:.1em;opacity:.75}
+.are{position:absolute;left:1160px;top:390px;font:800 250px 'Avenir Next',sans-serif;letter-spacing:-.06em;line-height:.9;color:var(--ink)}
+.tag{position:absolute;left:1180px;top:1000px;width:560px;font:700 44px 'Avenir Next',sans-serif;line-height:1.12;letter-spacing:-.02em;color:var(--ink)}
+canvas{position:absolute;left:0;top:0;width:1800px;height:1200px;mix-blend-mode:overlay;opacity:.10}
+</style></head><body><div id="t">
+<div class="glow"></div>
+<div class="file"><i></i>2019-03-14 08-02.m4a · at 1:10</div>
+<div id="wave"></div>
+<div class="quote">“Future me, are you still playing guitar?”</div>
+<div class="logo">past me <b>asks</b><i></i></div>
+<div class="panel"></div>
+<div class="today">today · 2026-11-20</div>
+<div class="qlab">QUESTION FOR TODAY</div>
+<div class="are">are<br>you?</div>
+<div class="tag">this one lets<br>your past ask you.</div>
+<canvas id="g" width="960" height="540"></canvas>
+</div>
+<script>
+let s=11;const R=()=>{s=(s*16807)%2147483647;return (s-1)/2147483646;};
+const wave=document.getElementById('wave'),N=44;
+for(let i=0;i<N;i++){const env=Math.pow(Math.sin(Math.PI*(i+.5)/N),.55),h=24+(0.25+0.75*R())*env*215,b=document.createElement('span');
+  b.style.left=(i*20.5)+'px';b.style.height=h+'px';b.style.bottom=(120-h/2)+'px';
+  const lit=i<31;b.style.background=lit?'#FF8A1F':'#F4EEE3';b.style.opacity=lit?1:.28;wave.appendChild(b);}
+const g=document.getElementById('g').getContext('2d'),im=g.createImageData(960,540),d=im.data;
+for(let i=0;i<d.length;i+=4){const v=(R()*255)|0;d[i]=d[i+1]=d[i+2]=v;d[i+3]=255;}g.putImageData(im,0,0);
+window.renderFrame=()=>{};document.fonts.ready.then(()=>{window.__ready=true;});
+</script></body></html>

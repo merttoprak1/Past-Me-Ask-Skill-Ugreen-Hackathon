@@ -1,0 +1,172 @@
+1
+00:00:01,800 --> 00:00:04,045
+March 2019. Eight in the morning.
+
+2
+00:00:04,495 --> 00:00:07,241
+You hit record, and talk to the person you will become.
+
+3
+00:00:07,941 --> 00:00:09,980
+Future me, are you still playing guitar?
+
+4
+00:00:11,880 --> 00:00:14,484
+Over the years, you leave more messages for later.
+
+5
+00:00:14,934 --> 00:00:19,819
+In June 2021, a prediction: In two years, I will have my own studio.
+
+6
+00:00:20,269 --> 00:00:24,503
+On New Year's Day, a promise: I promise I will call Dad every Sunday.
+
+7
+00:00:24,953 --> 00:00:30,350
+And one night in September 2023, a worry: I am scared this job will swallow me.
+
+8
+00:00:31,700 --> 00:00:32,880
+Then life happens.
+
+9
+00:00:33,330 --> 00:00:37,423
+The memos pile up. Two hundred and twelve of them, next to fifty-two notes.
+
+10
+00:00:37,873 --> 00:00:39,384
+Nobody goes back to listen.
+
+11
+00:00:39,834 --> 00:00:43,006
+And you can't search for a promise you no longer remember making.
+
+12
+00:00:44,356 --> 00:00:46,720
+Most archive tools let you ask your past.
+
+13
+00:00:47,170 --> 00:00:48,810
+This one lets your past ask you.
+
+14
+00:00:49,660 --> 00:00:51,027
+This is Past Me Asks.
+
+15
+00:00:51,477 --> 00:00:53,366
+A Skill for the UGREEN AI NAS.
+
+16
+00:00:54,816 --> 00:00:59,965
+It goes through the memos and notes you choose, and finds the messages past you left for the future.
+
+17
+00:01:00,415 --> 00:01:03,497
+Each one comes back word for word, with its real date.
+
+18
+00:01:03,947 --> 00:01:05,564
+And then, past you gets to ask.
+
+19
+00:01:06,014 --> 00:01:11,189
+In 2021, you expected your own studio by 2023. What happened?
+
+20
+00:01:12,539 --> 00:01:16,530
+You answer in your own words: typed, or recorded as a new Now Me memo.
+
+21
+00:01:17,130 --> 00:01:20,431
+Not my own, but I share one with Lea since 2024.
+
+22
+00:01:21,781 --> 00:01:23,593
+Kept? Not kept? Still open?
+
+23
+00:01:24,493 --> 00:01:25,505
+Only you decide.
+
+24
+00:01:25,955 --> 00:01:29,458
+It never scores you, never judges you, and never gives advice.
+
+25
+00:01:30,908 --> 00:01:32,660
+Then the other messages wait for you.
+
+26
+00:01:33,110 --> 00:01:34,377
+How did this promise go?
+
+27
+00:01:34,827 --> 00:01:36,730
+What would you tell the person who said this?
+
+28
+00:01:37,180 --> 00:01:39,003
+And that question from 2019.
+
+29
+00:01:40,153 --> 00:01:40,712
+Are you?
+
+30
+00:01:42,012 --> 00:01:46,813
+If you are not ready to answer yet, that's fine. It simply saves: not answered yet.
+
+31
+00:01:48,513 --> 00:01:53,546
+When you say yes, it saves past and present side by side, in one dated dialogue.
+
+32
+00:01:53,996 --> 00:01:56,950
+Exact quotes. Real dates. Nothing invented.
+
+33
+00:01:58,400 --> 00:02:01,269
+It's made for anyone with years of memos and notes.
+
+34
+00:02:01,719 --> 00:02:07,137
+Ana turns 35. Past her wanted to have run a marathon by then. She marks it: kept.
+
+35
+00:02:07,587 --> 00:02:15,054
+Jonas promised to call his dad every Sunday. He writes what happened, and leaves it unmarked. It's the first thing he has written about it.
+
+36
+00:02:15,504 --> 00:02:21,974
+Sofia answers the worries she had about her teaching job, and the Skill makes no comment on whether they were justified.
+
+37
+00:02:22,424 --> 00:02:29,072
+And Priya, deciding whether to move abroad again, reads her own words from before, during and after her last move.
+
+38
+00:02:30,422 --> 00:02:31,958
+And it treats your past with care.
+
+39
+00:02:32,408 --> 00:02:38,712
+It reads only the folders you name, never changes a memo or a note, and writes nothing until you say yes.
+
+40
+00:02:40,662 --> 00:02:43,022
+Most archive tools let you ask your past.
+
+41
+00:02:43,472 --> 00:02:45,122
+This one lets your past ask you.
+
+42
+00:02:45,572 --> 00:02:50,246
+Past Me Asks. For Bring Memories to Life, by Mert Toprak and Daghan Leflef.
+
+43
+00:02:51,746 --> 00:02:54,010
+So, tell me. Are you still playing guitar?
+
